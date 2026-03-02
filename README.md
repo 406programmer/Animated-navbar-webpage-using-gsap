@@ -4,7 +4,8 @@ A simple animated navigation menu built with HTML, CSS, and GSAP (GreenSock Anim
 
 🔹 Demo
 
-No live demo provided yet — you can open the project locally to see the animation.
+https://406programmer.github.io/Animated-navbar-webpage-using-gsap/
+
 
 ✨ Features
 
